@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="mailto:tomasabalos2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/tomasabalos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -129,17 +129,15 @@ class Tomas:
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad" width="100%">
-</p>
+<!--
+  Quité las tarjetas de github-readme-stats y el gráfico de actividad porque
+  sus servidores públicos en Vercel suelen estar caídos o con límite de uso.
+  Si las querés de vuelta, hacé self-host y usá tu propia URL.
+-->
+
 
 ---
 
