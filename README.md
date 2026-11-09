@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&style=for-the-badge&color=0e75b6" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=TomasAbalos&label=Visitas&style=for-the-badge&color=0e75b6" alt="Contador de visitas">
   <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-75AADB?style=for-the-badge" alt="Buenos Aires, Argentina">
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-2ea44f?style=for-the-badge" alt="Open to remote work">
 </p>
@@ -104,15 +104,6 @@ class Tomas:
 
 </details>
 
-<!--
-  🚧 SECCIÓN DE PROYECTOS (oculta por ahora)
-  Cuando tengas repos listos, borrá este comentario y pegá algo así:
-
-  ## 🚀 Proyectos destacados
-  | Proyecto | Descripción | Tecnologías |
-  |---|---|---|
-  | [Nombre](https://github.com/TU_USUARIO/REPO) | Qué hace, en una línea. | Python |
--->
 
 ---
 
@@ -129,14 +120,9 @@ class Tomas:
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
+  <img src="https://streak-stats.demolab.com?user=TomasAbalos&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
 </p>
 
-<!--
-  Quité las tarjetas de github-readme-stats y el gráfico de actividad porque
-  sus servidores públicos en Vercel suelen estar caídos o con límite de uso.
-  Si las querés de vuelta, hacé self-host y usá tu propia URL.
--->
 
 
 ---
